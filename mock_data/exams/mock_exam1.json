@@ -1,0 +1,520 @@
+{
+  "remote_exam_id": "mock_exam_1",
+  "type": "multiple choice",
+  "title": "Mock Exam 1",
+  "max_score": 16,
+  "questions": [
+    {
+      "remote_question_id": "me1_1",
+      "type": "multiple choice",
+      "body": "Hbo-competenties zijn",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_1_A",
+          "body": "de eisen waaraan iemand moet voldoen om een beroep op hbo-niveau te kunnen uitoefenen.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_1_B",
+          "body": "marketinggames waarin hbo-ers een competitie doen om bepaalde doelen te scoren.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_1_C",
+          "body": "de eisen waaraan iemand moet voldoen om aan een hbo-studie te kunnen beginnen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_1_D",
+          "body": "de eisen waaraan een hbo-er moet voldoen om de competitie met andere studenten te kunnen aangaan.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_2",
+      "type": "multiple choice",
+      "body": "Tot de algemene hbo-competenties behoort niet",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_2_A",
+          "body": "wetenschappelijk onderzoek doen.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_2_B",
+          "body": "brede professionalisering.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_2_C",
+          "body": "creativiteit en complexiteit in handelen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_2_D",
+          "body": "probleemgericht werken.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_3",
+      "type": "multiple choice",
+      "body": "Tot de algemene hbo-competenties behoort niet",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_3_A",
+          "body": "commercieel denken.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_3_B",
+          "body": "wetenschappelijke toepassing.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_3_C",
+          "body": "sociaal-communicatieve bekwaamheden.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_3_D",
+          "body": "besef van maatschappelijke verantwoordelijkheid.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_4",
+      "type": "multiple choice",
+      "body": "Een organisatie is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_4_A",
+          "body": "een duurzaam, doelgericht, geregeld samenwerkingsverband.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_4_B",
+          "body": "een groep mensen die samen iets doet.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_4_C",
+          "body": "een systeem van informatie en communicatie dat door mensen is opgezet.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_4_D",
+          "body": "een activiteit om een maatschappelijk doel te realiseren.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_5",
+      "type": "multiple choice",
+      "body": "Een 'georganiseerde'werknemer is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_5_A",
+          "body": "lid van een vakbond.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_5_B",
+          "body": "praktisch ingesteld.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_5_C",
+          "body": "taakgericht.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_5_D",
+          "body": "in vaste dienst.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_6",
+      "type": "multiple choice",
+      "body": "Volgens Gastelaars is een kenmerk van een dienstverlenende organisatie niet:",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_6_A",
+          "body": "een financiele relatie tussen klanten en dienstverleners.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_6_B",
+          "body": "een gerichte transactie tussen uitvoerenden en klanten.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_6_C",
+          "body": "een specifiek effect in de toestand van de klant als oogmerk.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_6_D",
+          "body": "werken vanuit de centrale waarden van de organisatie.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_7",
+      "type": "multiple choice",
+      "body": "Een selectiebureaucratie kenmerkt zich door",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_7_A",
+          "body": "het toepassen van algemene rechtsregels op individuele klanten.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_7_B",
+          "body": "anonieme, kortstondige, gestandaardiseerde transacties met klanten.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_7_C",
+          "body": "gespecialiseerde dienstverlening, gericht op diepgaande transacties met klanten.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_7_D",
+          "body": "langdurige contacten met individuele klanten op vrijwillige basis.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_8",
+      "type": "multiple choice",
+      "body": "Dienstverlening op basis van zorgarrangementen houdt in",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_8_A",
+          "body": "zeer ingrijpende en langdurige dienstverlening aan klanten die van deze hulp afhankelijk zijn.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_8_B",
+          "body": "kortstondige materiele hulp aan klanten die daarmee uit de zorgen zijn.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_8_C",
+          "body": "het toepassen van algemene rechtsregels op individuele klanten.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_8_D",
+          "body": "professionele adviezen aan klanten met juridische problemen.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_9",
+      "type": "multiple choice",
+      "body": "Het verschil tussen een stichting en een vereniging is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_9_A",
+          "body": "dat een stichting geen leden kent en een vereniging wel.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_9_B",
+          "body": "dat een stichting leden kent en een vereniging niet.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_9_C",
+          "body": "dat een stichting een bestuur heeft en een vereniging niet.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_9_D",
+          "body": "dat een stichting een ideeel doel heeft en een vereniging niet.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_10",
+      "type": "multiple choice",
+      "body": "De oorspronkelijke functie van een stichting was:",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_10_A",
+          "body": "het beheren van een vermogen voor een goed doel.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_10_B",
+          "body": "het benutten van een vermogen voor een commercieel doel.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_10_C",
+          "body": "mensen zonder werk aan een baan helpen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_10_D",
+          "body": "arme mensen van voedsel en kleding voorzien.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_11",
+      "type": "multiple choice",
+      "body": "Een systeem is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_11_A",
+          "body": "een geheel van samenhangende delen dat zichzelf in wisselwerking met de omgeving in stand houdt.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_11_B",
+          "body": "een apparaat dat kan werken zonder tussenkomst van de mens.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_11_C",
+          "body": "een deel van de werkelijkheid dat geheel kan worden afgesloten van de omgeving.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_11_D",
+          "body": "elke activiteit die min of meer systematisch gebeurt, dus toeval uitsluit.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_12",
+      "type": "multiple choice",
+      "body": "De meeste welzijnsinstellingen zijn ontstaan door",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_12_A",
+          "body": "particulier initiatief vanuit de maatschappij.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_12_B",
+          "body": "wetgevende initiatieven door de overheid.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_12_C",
+          "body": "patientenverenigingen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_12_D",
+          "body": "verzekeringsmaatschappijen.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_13",
+      "type": "multiple choice",
+      "body": "Het welzijnswerk wordt beinvloed door de markt via",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_13_A",
+          "body": "de wensen van zijn klanten.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_13_B",
+          "body": "de directe betalingen door klanten.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_13_C",
+          "body": "de prijs van de aangeboden diensten.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_13_D",
+          "body": "de kosten van voorlichting.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_14",
+      "type": "multiple choice",
+      "body": "Tot de marktpartijen behoort ook:",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_14_A",
+          "body": "de verzekeringsmaatschappijen.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_14_B",
+          "body": "de rijksoverheid.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_14_C",
+          "body": "de lokale overheid.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_14_D",
+          "body": "het management van welzijnsinstellingen.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_15",
+      "type": "multiple choice",
+      "body": "De informatiestromen van een systeem zijn:",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_15_A",
+          "body": "input, output en feedback.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_15_B",
+          "body": "informatie, communicatie en controle.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_15_C",
+          "body": "top-down en bottom-up informatie.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_15_D",
+          "body": "bevelen en adviezen.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me1_16",
+      "type": "multiple choice",
+      "body": "De throughput van een systeem is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me1_16_A",
+          "body": "het geheel van activiteiten in een systeem dat ervoor zorgt dat de input wordt omgezet in output.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me1_16_B",
+          "body": "het doormodderen met beperkte middelen om een gegeven doel te bereiken dat eigenlijk niet met de gegeven middelen te realiseren is.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_16_C",
+          "body": "het organiseren van informatie over de toestand waarin een systeem zich bevindt.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me1_16_D",
+          "body": "het veranderen van de omgevingssituatie waarin een systeem zich bevindt.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "remote_exam_id": "mock_exam_2",
+  "type": "multiple choice",
+  "title": "Mock Exam 2",
+  "max_score": 17,
+  "questions": [
+    {
+      "remote_question_id": "me2_1",
+      "type": "multiple selection",
+      "body": "De efficientie van een organisatie wordt vergroot door",
+      "max_score": 2,
+      "answers": [
+        {
+          "remote_answer_id": "me2_1_A",
+          "body": "arbeidsverdeling en specialisatie.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_1_B",
+          "body": "inzet van meer middelen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_1_C",
+          "body": "inzet van meer personeel.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_1_D",
+          "body": "vermindering van het management.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_2",
+      "type": "multiple choice",
+      "body": "Arbeidsverdeling vereist",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_2_A",
+          "body": "coordinatie van taken.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_2_B",
+          "body": "autonomie van de medewerkers.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_2_C",
+          "body": "top-down-management.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_2_D",
+          "body": "bottom-up-informatie",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_3",
+      "type": "multiple choice",
+      "body": "Het streven naar invloed van de samenleving op de doelen en werkwijze van ",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_3_A",
+          "body": "externe democratisering.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_3_B",
+          "body": "bureaucratisering.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_3_C",
+          "body": "interne democratisering.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_3_D",
+          "body": "bestuurlijke vernieuwing.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_4",
+      "type": "multiple choice",
+      "body": "Feedback is in essentie:",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_4_A",
+          "body": "checken of de doelen worden bereikt en of de omgeving zich wijzigt.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_4_B",
+          "body": "vergroten van de input.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_4_C",
+          "body": "verbeteren van de communicatie in de instelling.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_4_D",
+          "body": "verbeteren van het management van de instelling.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_5",
+      "type": "multiple choice",
+      "body": "De mate waarin de beoogde doelen worden bereikt is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_5_A",
+          "body": "de effectiviteit.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_5_B",
+          "body": "de efficientie.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_5_C",
+          "body": "het ondernemerschap.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_5_D",
+          "body": "de duurzaamheid.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_6",
+      "type": "multiple choice",
+      "body": "De mate waarin de middelen worden ingezet voor het bereiken van de beoogde doelen ",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_6_A",
+          "body": "de efficientie.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_6_B",
+          "body": "de effectiviteit.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_6_C",
+          "body": "de stuurbaarheid.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_6_D",
+          "body": "de financierbaarheid.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_7",
+      "type": "multiple choice",
+      "body": "'Not-for-profit' wil zeggen:",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_7_A",
+          "body": "hoewel de organisatie geen winst nastreeft, behandelt zij haar doelgroep wel als klanten die kwaliteit willen.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_7_B",
+          "body": "hoewel de organisatie geen winst nastreeft, maakt zij in feite wel winst door niet alle inkomsten te gebruiken voor de beoogde doelen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_7_C",
+          "body": "de klant mag niet betalen voor de ontvangen diensten.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_7_D",
+          "body": "de overheid is bereid eventuele tekorten van de organisatie aan te zuiveren.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_8",
+      "type": "multiple choice",
+      "body": "Kenmerkend verschil tussen profit- en non-profitorganisaties is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_8_A",
+          "body": "dat bij profitorganisaties de klant direct aan de organisatie voor geleverde diensten betaalt, bij non-profitorganisaties is er geen directe financiele band tussen klant en instelling.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_8_B",
+          "body": "dat profitorganisaties een professioneel management hebben, terwijl non-profitorganisaties worden geleid door vrijwilligers.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_8_C",
+          "body": "dat de overheid voor profitorganisaties geen wetgevend kader geeft, terwijl dat wel gebeurt voor non-profitorganisaties",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_8_D",
+          "body": "dat bij profitorganisaties mensen in loondienst werken, terwijl dat niet mag bij nonprofitorganisaties.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_9",
+      "type": "multiple choice",
+      "body": "Bij 'ingebouwde hulpverlening'",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_9_A",
+          "body": "is de hulpverlening niet het hoofddoel van de organisatie, maar de hoofdtaak van een afdeling binnen die grotere organisatie.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_9_B",
+          "body": "is hulpverlening het hoofddoel van de organisatie, en zijn er andere doelen (niet hulpverlening) van afdelingen binnen die grotere organisatie.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_9_C",
+          "body": "heeft een organisatie een aantal hoofddoelen, waaronder hulpverlening.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_9_D",
+          "body": "huurt een organisatie hulpverlening in indien dat nodig is voor leden van die organisatie.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_10",
+      "type": "multiple choice",
+      "body": "De feitelijke doelen van een organisatie zijn af te leiden uit",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_10_A",
+          "body": "de werkwijze van de organisatie.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_10_B",
+          "body": "de statuten van de organisatie.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_10_C",
+          "body": "de beleidsplannen van de organisatie.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_10_D",
+          "body": "de ervaringen van klanten van die organisatie.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_11",
+      "type": "multiple choice",
+      "body": "Volgens de auteurs is het belangrijk",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_11_A",
+          "body": "dat je persoonlijke doelen en de doelen van de organisatie niet geheel samenvallen.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_11_B",
+          "body": "dat je persoonlijke doelen en de doelen van de organisatie geheel samenvallen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_11_C",
+          "body": "dat je persoonlijke doelen en de doelen van de organisatie nergens overlappen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_11_D",
+          "body": "Iis er geen oordeel te geven over de overeenkomsten en verschillen van je persoonlijke doelen en de doelen van de organisatie.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_12",
+      "type": "multiple choice",
+      "body": "De structuur van een organisatie is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_12_A",
+          "body": "de min of meer vaste relatie tussen de onderdelen van de organisatie.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_12_B",
+          "body": "de opeenvolging van processen in een organisatie.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_12_C",
+          "body": "de richting van de communicatie in een organisatie (top-down of bottom-up).",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_12_D",
+          "body": "de plaats van de organisatie in het krachtenveld van subsidiegevers en klanten.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_13",
+      "type": "multiple choice",
+      "body": "Intake doen, huisbezoek afleggen en administratie bijhouden zijn voorbeelden van het structureren van de volgende zaken binnen een organisatie:",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_13_A",
+          "body": "taken.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_13_B",
+          "body": "functies.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_13_C",
+          "body": "afdelingen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_13_D",
+          "body": "hierarchie.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_14",
+      "type": "multiple choice",
+      "body": "Kenmerk van een verticale organisatie is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_14_A",
+          "body": "dat functionarissen en afdelingen op verschillend hierarchisch niveau staan.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_14_B",
+          "body": "dat de uitvoerende functionarissen zich op grond van hun deskundigheid boven de klant stellen.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_14_C",
+          "body": "dat de medewerkers binnen een organisatie de leiding adviseren over het te voeren beleid.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_14_D",
+          "body": "dat de organisatie ondergeschikt is aan externe doelbepalers of subsidiegevers.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_15",
+      "type": "multiple choice",
+      "body": "Kenmerk van een horizontale organisatie is",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_15_A",
+          "body": "dat alle functionarissen in de organisatie op gelijk niveau staan en er dus geen hierarchische verschillen zijn.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_15_B",
+          "body": "dat de uitvoerende functionarissen zich niet boven of onder de klanten stellen, maar daarmee op gelijk niveau staan.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_15_C",
+          "body": "dat de leiding en de medewerkers binnen een organisatie op eenzelfde kennis- en opleidingsniveau zitten.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_15_D",
+          "body": "dat alle functionarissen in de organisatie op gelijk salarisniveau zitten.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "remote_question_id": "me2_16",
+      "type": "multiple choice",
+      "body": "Een voorbeeld van een platte organisatie is:",
+      "max_score": 1,
+      "answers": [
+        {
+          "remote_answer_id": "me2_16_A",
+          "body": "een advocatencollectief.",
+          "correct": true,
+          "score": 1
+        },
+        {
+          "remote_answer_id": "me2_16_B",
+          "body": "een afdeling binnen een ziekenhuis.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_16_C",
+          "body": "de ambtelijke structuur van een gemeentehuis.",
+          "correct": false,
+          "score": 0
+        },
+        {
+          "remote_answer_id": "me2_16_D",
+          "body": "het leger.",
+          "correct": false,
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

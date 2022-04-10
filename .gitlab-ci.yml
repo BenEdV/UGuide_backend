@@ -1,0 +1,36 @@
+image: python:3
+
+services:
+  - postgres:9
+
+before_script:
+  - apt install gcc
+  - pip install -U pip setuptools
+  - pip install --cache-dir=$PIP_CACHE_DIR -r requirements.txt
+
+variables:
+  CI: "true"
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/pip-cache"
+  POSTGRES_USER: testuser
+  POSTGRES_PASSWORD: testpass
+  POSTGRES_DB: backend_testdb
+
+cache:
+  paths:
+    - "$CI_PROJECT_DIR/pip-cache"
+  key: "$CI_COMMIT_REF_NAME" # share cache on branch
+
+pylint:
+  script:
+    - pip install pylint
+    - ./lint.sh
+
+pycodestyle:
+  script:
+    - pycodestyle main.py learnlytics
+
+nose2:
+  script:
+    - pip install nose2
+    - nose2 -v
+  coverage: /\d+\%\s*$/

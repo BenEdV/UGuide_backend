@@ -1,0 +1,40 @@
+# configuration (store personal configuration in this file)
+local.cfg
+
+# database
+db_repository
+app.db
+sqlite3.exe
+
+# macOS
+.DS_Store
+
+# Virtual environment
+venv
+
+# Editors
+.idea
+.vscode
+
+# Testing
+.coverage
+
+# Documentation/Diagrams
+*.pdf
+*.uml
+
+# cache files
+__pycache__
+** / __pycache__
+*.pyc
+
+# Upload folder
+**/uploads
+files
+
+# environment variable files (Used in production)
+*.env
+
+config\.py
+log
+ssl

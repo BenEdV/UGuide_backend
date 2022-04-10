@@ -1,0 +1,3 @@
+[run]
+omit = venv/*, mock_data/*, db_repository/*, local.cfg, main.py, config.py, create_api.py, create_metadb.py
+branch = true

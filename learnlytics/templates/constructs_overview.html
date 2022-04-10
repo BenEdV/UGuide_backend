@@ -1,0 +1,8 @@
+<!doctype html>
+<title>Construct Overview</title>
+The constructs for {{ collection.name }}:
+<ul>
+{% for construct in constructs %}
+  <li><a href="{{ BASE_URL }}/collections/{{ collection.id }}/constructs/{{ construct.id }}">{{ construct.name }}</a></li>
+{% endfor %}
+</ul>
