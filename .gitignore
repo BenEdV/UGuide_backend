@@ -35,6 +35,5 @@ files
 # environment variable files (Used in production)
 *.env
 
-config\.py
 log
 ssl
