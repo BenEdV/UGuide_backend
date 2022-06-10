@@ -32,6 +32,8 @@ def prompt_user():
     Get information from the user about mail, password, identityprovider and root collection_id
     :return: mail, password, identityprovider and root collection_id
     """
+    print("Hello this is the setup prompt for creating the root admin user for UGuide")
+
     correct = False
     mail = None
     passw = None
@@ -51,6 +53,55 @@ def prompt_user():
             if len(pass1) < 8:
                 print("Password is shorter than 8 characters")
                 continue
+            pass2 = getpass.getpass("Please enter root password again: ")
+            if pass1 == pass2:
+                match = True
+                passw = pass1
+                break
+            else:
+                print("Passwords do not match, try again")
+                continue
+
+        print("Username: " + mail)
+
+        answered = False
+        while not answered:
+            check = input("Is this correct(y/n): ")
+
+            if len(check) > 0 and (check[0] == 'n' or check[0] == 'N'):
+                answered = True
+                print("Ok try again")
+                break
+            if len(check) > 0 and (check[0] == 'y' or check[0] == 'Y'):
+                answered = True
+                correct = True
+                break
+
+    return mail, passw
+
+def prompt_learninglocker_user():
+    """
+    Get information from the user about the user credentials used to retrieve data from the learninglocker container
+    """
+    print("""
+        During set up of UGuide you initialized the learninglocker container with a site admin.
+        Enter the credentials of this user below to create the connection between the UGuide backend and learninglocker.
+    """)
+    correct = False
+    mail = None
+    passw = None
+    while not correct:
+        answered = False
+        while not answered:
+            mail = input("Please enter the mail address for the learninglocker site admin: ")
+
+            if len(mail) > 0:
+                answered = True
+                break
+
+        match = False
+        while not match:
+            pass1 = getpass.getpass("Please enter password for the learninglocker site admin: ")
             pass2 = getpass.getpass("Please enter root password again: ")
             if pass1 == pass2:
                 match = True
@@ -108,6 +159,8 @@ db.session.add(passhash)
 
 init_authorization_db_with_root(id)
 
+ll_username, ll_password = prompt_learninglocker_user()
+
 # Add connectors
 learninglocker_connector = Connector(
     title="learninglocker",
@@ -116,8 +169,8 @@ learninglocker_connector = Connector(
     settings={
         "api_base_url": 'http://learninglocker_api:8080',
         "xapi_base_url": "http://learninglocker_xapi:8081/data/xAPI",
-        "username": 'example@test.com',
-        "password": 'abcd1234'
+        "username": ll_username,
+        "password": ll_password
     })
 
 local_connector = Connector(
